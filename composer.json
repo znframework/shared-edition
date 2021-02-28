@@ -1,9 +1,9 @@
 {
-    "name": "znframework/custom-edition",
+    "name": "znframework/shared-edition",
     "type": "project",
-    "description": "ZN Framework Creator's Edition",
+    "description": "ZN Framework Shared Edition",
     "keywords": ["zn","zeroneed"],
-    "homepage": "https://github.com/znframework/custom-edition",
+    "homepage": "https://github.com/znframework/shared-edition",
     "license": "MIT",
     "authors": 
     [
