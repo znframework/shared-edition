@@ -1,7 +1,5 @@
 <?php namespace Project\Controllers;
 
-use URI;
-
 class Home extends Controller
 {
     public function main()
