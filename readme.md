@@ -58,6 +58,12 @@ For configuration, edit the .conf file as follows.
     ServerAdmin webmaster@localhost
     DocumentRoot /var/www/html/public
 
+    <Directory /var/www/html/public>
+        Options Indexes FollowSymLinks MultiViews
+        AllowOverride All
+        Require all granted
+    </Directory>
+
     ErrorLog ${APACHE_LOG_DIR}/error.log
     CustomLog ${APACHE_LOG_DIR}/access.log combined
     
