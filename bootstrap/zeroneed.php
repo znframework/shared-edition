@@ -47,7 +47,6 @@ ZN\ZN::defines
     'ROUTES_DIR'      => 'routes/',
     'STORAGE_DIR'     => 'storage/',
     'AUTOLOAD_DIR'    => '',
-    'LAYERS_DIR'      => '',
     'THEMES_DIR'      => '',
     'PLUGINS_DIR'     => '',
 
